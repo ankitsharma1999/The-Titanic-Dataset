@@ -1,4 +1,3 @@
-# The-Titanic-Dataset
 # Machine Learning model for The Titanic Dataset
 This repo contains the data of the people who were travelling on the ill fated Titanic in three CSV files.
 One of the CSV file contains the training data to train the classifier and the other one contains testing data
